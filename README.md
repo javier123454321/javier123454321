@@ -2,7 +2,7 @@
 
 Former Architectural Designer turned software developer.
 
-Co-Founder and Full Stack Dev (as a side project) for [memory captures](https://memorycaptures.com)
+Co-Founder and Full Stack Dev for [memory captures](https://memorycaptures.com)
 
 Frontend Dev for [KeypathEdu](https://keypathedu.com)
 
