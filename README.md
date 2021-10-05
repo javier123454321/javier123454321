@@ -2,8 +2,15 @@
 
 Former Architectural Designer turned software developer.
 
-Co-Founder and Full Stack Dev for [memory captures](https://memorycaptures.com)
+Working on [Valorize](https://valorize.app)
 
 Frontend (Vue) Dev for [PeaPodDigitalLabs](https://peapoddigitallabs.com)
 
-Firm believer in self learning, multidisciplinary thinking, and that whole T shaped knowledge idea. 
+Co-Founder and Full Stack Dev for [memory captures](https://memorycaptures.com)
+
+Getting into the weeds for Solidity Development.
+
+[Solidity Gas Optimizations pt.1 - Memory vs Storage](https://dev.to/javier123454321/solidity-gas-optimization-pt1-4271)
+[Solidity Gas Optimizations pt.2 - Constants](https://dev.to/javier123454321/solidity-gas-optimizations-pt-2-constants-570d)
+[Solidity Gas Optimizations Pt. 3 - Packing Structs](https://dev.to/javier123454321/solidity-gas-optimizations-pt-3-packing-structs-23f4)
+
