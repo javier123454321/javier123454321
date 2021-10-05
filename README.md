@@ -29,4 +29,4 @@ Getting into the weeds for Solidity Development.
 
 [Twitter](https://twitter.com/javier123454321)
 
-[random thoughts](graspingdesign.wordpress.com)
+[random thoughts, seldom updated](graspingdesign.wordpress.com)
