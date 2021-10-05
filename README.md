@@ -6,7 +6,7 @@ Founder and Full Stack Dev on [Valorize](https://valorize.app)
 
 Frontend (Vue) Dev for [PeaPodDigitalLabs](https://peapoddigitallabs.com)
 
-Started and grew to 5k MRR [memory captures](https://memorycaptures.com)
+Started and grew to 5k MRR [memory captures](https://www.memorycaptures.com)
 
 Getting into the weeds for Solidity Development.
 
