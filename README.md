@@ -23,3 +23,8 @@ Getting into the weeds for Solidity Development.
 
 [Solidity Gas Optimizations Pt. 3 - Packing Structs](https://dev.to/javier123454321/solidity-gas-optimizations-pt-3-packing-structs-23f4)
 
+## Where else to find me
+
+[TikTok](https://www.tiktok.com/@valorize.javi)
+
+[Twitter](https://twitter.com/javier123454321)
