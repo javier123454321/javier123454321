@@ -2,11 +2,18 @@
 
 Former Architectural Designer turned software developer.
 
+## What I have built
+
 Founder and Full Stack Dev on [Valorize](https://valorize.app)
+
+Started and grew to 5k MRR [memory captures](https://www.memorycaptures.com)
+
+## What I get paid to do
 
 Frontend (Vue) Dev for [PeaPodDigitalLabs](https://peapoddigitallabs.com)
 
-Started and grew to 5k MRR [memory captures](https://www.memorycaptures.com)
+
+## What I am learning
 
 Getting into the weeds for Solidity Development.
 
