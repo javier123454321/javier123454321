@@ -5,8 +5,8 @@ Former Architectural Designer turned software developer.
 ## What I have built
 
 Founder and Full Stack Dev on [Valorize](https://valorize.app)
-
-Started and grew to 5k MRR [memory captures](https://www.memorycaptures.com)
+ 
+Started and grew [Memory Captures](https://www.memorycaptures.com) to 5k MRR (No longer there)
 
 ## What I get paid to do
 
