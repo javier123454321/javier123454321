@@ -2,11 +2,11 @@
 
 Former Architectural Designer turned software developer.
 
-Working on [Valorize](https://valorize.app)
+Founder and Full Stack Dev on [Valorize](https://valorize.app)
 
 Frontend (Vue) Dev for [PeaPodDigitalLabs](https://peapoddigitallabs.com)
 
-Co-Founder and Full Stack Dev for [memory captures](https://memorycaptures.com)
+Started and grew to 5k MRR [memory captures](https://memorycaptures.com)
 
 Getting into the weeds for Solidity Development.
 
