@@ -28,3 +28,5 @@ Getting into the weeds for Solidity Development.
 [TikTok](https://www.tiktok.com/@valorize.javi)
 
 [Twitter](https://twitter.com/javier123454321)
+
+[random thoughts](graspingdesign.wordpress.com)
