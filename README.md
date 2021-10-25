@@ -4,11 +4,13 @@ Former Architectural Designer turned software developer.
 
 ## What I have built
 
+### Big Stuff
 Founder and Full Stack Dev on [Valorize](https://valorize.app)
  
 Started and grew [Memory Captures](https://www.memorycaptures.com) to 5k MRR (No longer there)
 
-Built [GroupsForLearning.com](https://github.com/javier123454321/groups_for_learning) to help people work on online courses together
+###Fun Stuff
+Built [GroupsForLearning.com](https://github.com/javier123454321/groupsforlearning) to help people work on online courses together
 
 ## What I get paid to do
 
