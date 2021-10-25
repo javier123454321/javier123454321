@@ -10,7 +10,7 @@ Founder and Full Stack Dev on [Valorize](https://valorize.app)
 Started and grew [Memory Captures](https://www.memorycaptures.com) to 5k MRR (No longer there)
 
 ### Fun Stuff
-Built [GroupsForLearning.com](https://github.com/javier123454321/groupsforlearning) to help people work on online courses together
+Built [GroupsForLearning.com](https://github.com/javier123454321/groupsforlearning) a tool for finding a cohort for online courses
 
 ## What I get paid to do
 
