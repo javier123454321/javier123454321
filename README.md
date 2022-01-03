@@ -4,7 +4,7 @@ Former Architectural Designer turned software developer.
 
 ## Current Work
 
-Spending most of my time working on [Valorize](https://valorize.app) as a founder and Full Stack Dev. [Link to Repo](https://github.com/ValorizeDAO). [Join the DAO](https://discord.gg/3PRMWrH9DT)
+Spending most of my time working on [Valorize](https://valorize.app) as a founder and Full Stack Dev. [Link to Repo](https://github.com/ValorizeDAO). 
 
 Guess I also do stuff on my [TikTok](https://www.tiktok.com/@valorize.javi) now.
 
