@@ -2,24 +2,25 @@
 
 Former Architectural Designer turned software developer.
 
-## What I have built
+## Current Work
 
-### Big Stuff
-Founder and Full Stack Dev on [Valorize](https://valorize.app)
+### [Valorize](https://valorize.app)
 
-#### [Link to Repo](https://github.com/ValorizeDAO)
- 
-Started and grew [Memory Captures](https://www.memorycaptures.com) to 5k MRR (No longer there)
+Founder and Full Stack Dev. [Link to Repo](https://github.com/ValorizeDAO).
 
-### Fun Stuff
+Guess I do stuff on my [TikTok](https://www.tiktok.com/@valorize.javi) now.
+
+### Previous Work
 Built [GroupsForLearning.com](https://github.com/javier123454321/groupsforlearning) a tool for finding a cohort for online courses
+
+Started and grew [Memory Captures](https://www.memorycaptures.com) to 5k MRR (No longer there)
 
 ## What I get paid to do
 
 Frontend (Vue) Dev for [PeaPodDigitalLabs](https://peapoddigitallabs.com)
 
 
-## What I am learning
+## Writings
 
 Getting into the weeds for Solidity Development.
 
@@ -29,11 +30,10 @@ Getting into the weeds for Solidity Development.
 
 [Solidity Gas Optimizations Pt. 3 - Packing Structs](https://dev.to/javier123454321/solidity-gas-optimizations-pt-3-packing-structs-23f4)
 
+[random thoughts, seldom updated](graspingdesign.wordpress.com)
+
 ## Where else to find me
 [Valorize](https://valorize.app/javi)
 
-[TikTok](https://www.tiktok.com/@valorize.javi)
-
 [Twitter](https://twitter.com/javier123454321)
 
-[random thoughts, seldom updated](graspingdesign.wordpress.com)
