@@ -4,13 +4,11 @@ Former Architectural Designer turned software developer.
 
 ## Current Work
 
-### [Valorize](https://valorize.app)
+Spending most of my time working on [Valorize](https://valorize.app) as a founder and Full Stack Dev. [Link to Repo](https://github.com/ValorizeDAO). [Join the DAO](https://discord.gg/3PRMWrH9DT)
 
-Founder and Full Stack Dev. [Link to Repo](https://github.com/ValorizeDAO).
+Guess I also do stuff on my [TikTok](https://www.tiktok.com/@valorize.javi) now.
 
-Guess I do stuff on my [TikTok](https://www.tiktok.com/@valorize.javi) now.
-
-### Previous Work
+## Previous Work
 Built [GroupsForLearning.com](https://github.com/javier123454321/groupsforlearning) a tool for finding a cohort for online courses
 
 Started and grew [Memory Captures](https://www.memorycaptures.com) to 5k MRR (No longer there)
