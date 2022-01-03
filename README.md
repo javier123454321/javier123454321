@@ -7,7 +7,7 @@ Former Architectural Designer turned software developer.
 ### Big Stuff
 Founder and Full Stack Dev on [Valorize](https://valorize.app)
 
-[Open Source Code](https://github.com/ValorizeDAO)
+#### [Link to Repo](https://github.com/ValorizeDAO)
  
 Started and grew [Memory Captures](https://www.memorycaptures.com) to 5k MRR (No longer there)
 
