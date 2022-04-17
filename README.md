@@ -28,6 +28,8 @@ Getting into the weeds for Solidity Development.
 
 [Solidity Gas Optimizations Pt. 3 - Packing Structs](https://dev.to/javier123454321/solidity-gas-optimizations-pt-3-packing-structs-23f4)
 
+[Solidity Gas Optimizations pt. 4 - Efficient Strings](https://dev.to/javier123454321/solidity-gas-optimizations-pt4-efficient-strings-46db)
+
 [random thoughts, seldom updated](graspingdesign.wordpress.com)
 
 ## Where else to find me
