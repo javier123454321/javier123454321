@@ -13,9 +13,13 @@ Built [GroupsForLearning.com](https://github.com/javier123454321/groupsforlearni
 
 Started and grew [Memory Captures](https://www.memorycaptures.com) to 5k MRR (No longer there)
 
-## What I get paid to do
+## What I've worked on
 
-Frontend (Vue) Dev for [PeaPodDigitalLabs](https://peapoddigitallabs.com)
+Frontend (Vue) Dev for [PeaPodDigitalLabs](https://peapoddigitallabs.com) working on performance issues.
+
+Frontend Dev for [Keypath Education](https://keypathedu.com/) building online courses at the cutting edge of educational design.
+
+Software Automation Engineer at [CellTrak](https://www.celltrak.com/) automating a test suite to improve stability and reliability.
 
 
 ## Writings
