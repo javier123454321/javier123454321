@@ -15,7 +15,7 @@ Started and grew [Memory Captures](https://www.memorycaptures.com) to 5k MRR (No
 
 ## What I've worked on
 
-Frontend (Vue) Dev for [PeaPodDigitalLabs](https://peapoddigitallabs.com) working on performance issues.
+Frontend (Vue) Dev for [PeaPodDigitalLabs](https://peapoddigitallabs.com) working on performance.
 
 Frontend Dev for [Keypath Education](https://keypathedu.com/) building online courses at the cutting edge of educational design.
 
