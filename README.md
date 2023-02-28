@@ -4,18 +4,19 @@ Former Architectural Designer turned software developer.
 
 ## Current Work
 
-Spending most of my time working on [Valorize](https://valorize.app) as a founder and Full Stack Dev. [Link to Repo](https://github.com/ValorizeDAO). 
+Frontend (Vue) Dev for [PeaPodDigitalLabs](https://peapoddigitallabs.com) working on frontend optimization.
 
-Guess I also do stuff on my [TikTok](https://www.tiktok.com/@valorize.javi) now.
+## Previous Experiments that no longer take my time but I learned immensely from
 
-## Previous Work
+Content Creation in [TikTok](https://www.tiktok.com/@valorize.javi).
+
+Spent around a year working on [Valorize](https://valorize.app) as a founder and Full Stack Dev. [Link to Repo](https://github.com/ValorizeDAO). 
+
 Built [GroupsForLearning.com](https://github.com/javier123454321/groupsforlearning) a tool for finding a cohort for online courses
 
 Started and grew [Memory Captures](https://www.memorycaptures.com) to 5k MRR (No longer there)
 
 ## What I've worked on
-
-Frontend (Vue) Dev for [PeaPodDigitalLabs](https://peapoddigitallabs.com) working on performance.
 
 Frontend Dev for [Keypath Education](https://keypathedu.com/) building online courses at the cutting edge of educational design.
 
@@ -37,6 +38,8 @@ Getting into the weeds for Solidity Development.
 [random thoughts, seldom updated](graspingdesign.wordpress.com)
 
 ## Where else to find me
+[My Website](https://www.javiergonzalez.io)
+
 [Valorize](https://valorize.app/javi)
 
 [Twitter](https://twitter.com/javier123454321)
